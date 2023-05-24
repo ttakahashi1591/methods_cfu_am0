@@ -1,4 +1,6 @@
 # Self-Evaluation
 
 - Reflect on your learning and work today. What are you most proud of?
+    - The material included in the Methods lesson was hefty, but it really did make a lot of sense. It is neat that you are able to create methods to support simplying what actions you need taken care of for a data set. I am most proud of figuring out problem 5 in the `final_practice.rb` homework. This really reminds me of when I used to disect my manager's excel spreadsheets to determine what the formulas are actually doing to ensure that you end up with the right result. 
 - What is the power of using methods in our applications?
+    - The power of using methods in our apllications supports being able to remove the need of repeating the same code to do one task. When we are able to use a method, then we are able to utilize that method across the variables in one shot rather than having to write code for each individual variable. I am excited to see how complex we can make methods in order to expedite and simplify the work we are doing. 
